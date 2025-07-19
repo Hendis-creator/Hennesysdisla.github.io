@@ -1,20 +1,6 @@
-  <head>
-    <meta charset="utf-8">
-
-<!-- begin _includes/seo.html --><title>Hennesys Disla</title>
-<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
-
-
-  <meta name="author" content="First Lastname">
-  
-
-
-<meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Hyung Won Chung">
-<meta property="og:title" content="Hyung Won Chung">
-<meta property="og:url" content="https://hwchung2.github.io/">
-
-
-  <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
-
+title: Hennesys Disla
+logo: /assets/img/headshot_cirlce.png
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
