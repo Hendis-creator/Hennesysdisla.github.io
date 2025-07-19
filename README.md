@@ -116,18 +116,18 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
   <hr />
 
-<h2 id="recent-papers-latest-first">Recent papers </h2>
+<h2 id="recent-papers-latest-first"> Publications </h2>
 
 <ul id="papers-list" class="bibliography">
 
 <li>
     
  <strong><a href="https://www.neurology.org/doi/10.1212/WNL.88.16_supplement.P6.379" target="_blank" rel="noopener">American Academy of Neurology</a></strong><br />
- Ilana Katz Sand, Yunjiao Zhu, Egle Cekanaviciute, Bruce Cree, Sarkis Mazmanian, Hennesys Disla, Justine Debelius, Rob Knight, Corey Watson, Sneha Singh, Rachel         Kanner, Sergio Baranzini, and Patrizia Casaccia .<br />
+ Ilana Katz Sand, Yunjiao Zhu, Egle Cekanaviciute, Bruce Cree, Sarkis Mazmanian, Hennesys Disla, Justine Debelius, Rob Knight, Corey Watson, Sneha Singh, Rachel         Kanner, Sergio Baranzini, and Patrizia Casaccia (2017).<br />
 
-  <li>
+<li>
 
-    CUNY Paper Coming soon..
+    (2025) CUNY Paper Coming soon..
     
 </li>
 
