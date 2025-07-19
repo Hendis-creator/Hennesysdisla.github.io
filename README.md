@@ -107,7 +107,7 @@
 
   <li>
     
- <strong><a href="https://patents.google.com/patent/US20220054061A1" target="_blank" rel="noopener">BrowseComp:Portable phlebotomy station with internal storage </a></strong><br />
+ <strong><a href="https://patents.google.com/patent/US20220054061A1" target="_blank" rel="noopener">Portable phlebotomy station with internal storage </a></strong><br />
     
 Inventor: Hennesys Disla
 Current Assignee: Icahn School of Medicine at Mount Sinai .<br />
