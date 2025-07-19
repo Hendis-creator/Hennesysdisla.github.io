@@ -101,7 +101,7 @@
       
 <hr2/>
 
-<h3 id="recent-papers-latest-first"> Awards Totaling $152,000+ </h3>
+<h3 id="recent-papers-latest-first"> Awards Totaling $150,000+ </h3>
 
 </p> 
 
