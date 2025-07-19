@@ -22,7 +22,7 @@
 
 <div class="intro-text">
     <p>
-      I was previously a Co-founder 
+      I was previously a Founder, Co-founder (2023-2024)
       <a href="https://armhug.com" target="_blank" rel="noopener">ArmHug</a>. 
    </p>
     
