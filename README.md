@@ -129,7 +129,7 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 <hr2/>
 
-<h3 id="recent-papers-latest-first"> Awards Totaling $153,000+ </h3>
+<h3 id="recent-papers-latest-first"> Awards Totaling $152,000+ </h3>
 
 </p> 
 
