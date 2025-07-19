@@ -163,6 +163,25 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
  Ilana Katz Sand, Yunjiao Zhu, Egle Cekanaviciute, Bruce Cree, Sarkis Mazmanian, Hennesys Disla, Justine Debelius, Rob Knight, Corey Watson, Sneha Singh, Rachel Kanner, Sergio Baranzini, and Patrizia Casaccia (2017).<br />
 
 <hr2/>
+
+<hr />
+
+<h2 id="recent-papers-latest-first"> Patent (2018-2024) </h2>
+
+<ul id="papers-list" class="bibliography">
+
+<li>
+    
+ <strong><a href="https://patents.google.com/patent/US20220054061A1" target="_blank" rel="noopener">Portable phlebotomy station with internal storage </a></strong><br />
+    
+Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Sinai .<br />
+
+    
+</li>
+
+
+
+
   
 
 </p>
