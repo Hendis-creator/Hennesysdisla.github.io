@@ -151,10 +151,9 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 Cool Things I’ve Built/Done
 
- <a href="https://sph.cuny.edu/event/designathon-ending-the-hiv-epidemic/" target="_blank" rel="noopener">  CUNY : Ending the HIV Epidemic Prize </a>
+ <a href="https://www.youtube.com/watch?v=Qbq3eCIeKis" target="_blank" rel="noopener">  CUNY : Ending the HIV Epidemic Prize </a>
   (Mar. 2021)
 
-https://www.youtube.com/watch?v=Qbq3eCIeKis
 
   
 
