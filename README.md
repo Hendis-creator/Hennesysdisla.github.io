@@ -26,12 +26,12 @@
       <a href="https://armhug.com" target="_blank" rel="noopener">ArmHug</a>. 
    </p>
     
-  At ArmHug, I was a foundational contributor to the ArmHug Podcast, building resources for our clients to continued education. 
-      <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q" target="_blank" rel="noopener">Podcast Episode </a>
+  At ArmHug, I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
+      <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q" target="_blank" rel="noopener">#49</a>
       (Jan. 2025),
-      <a href="https://openai.com/index/learning-to-reason-with-llms/" target="_blank" rel="noopener">o1</a>
+      <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">#36</a>
       (Feb. 2024),
-      <a href="https://openai.com/index/introducing-deep-research/" target="_blank" rel="noopener">Deep Research</a>
+      <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Hydration</a>
       (Mar. 2025). I currently focus on coding agents and led the Codex mini model-training.
     </p>
 
