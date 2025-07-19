@@ -129,15 +129,26 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 <hr3/>
 
-   <h3 id="recent-papers-latest-first"> Awards </h3>
+   <h3 id="recent-papers-latest-first"> Awards Totaling $110,000+ </h3>
 
 </p> 
 
 <p> 
-  <a href="https://www.media.mit.edu/"target="_blank" rel="noopener">Travel Grant</a>
-   (Mar. 2021)
-        
+      
+  <a href="https://www.buffalo.edu/partnerships/about/programs/ub-cultivator.html/" target="_blank" rel="noopener"> University of Buffalo Cultivator $100,000 Pre-seed investment </a>
+  (Mar. 2023) 
+
+  <a href="https://www.futurefounders.com/" target="_blank" rel="noopener"> Future Founders Seed Grant </a>
+  (Mar. 2020) 
+      
+  <a href="https://www.media.mit.edu/" target="_blank" rel="noopener"> MIT Media Lab Travel Grant</a>
+  (Mar. 2021)
+
+  <a href="https://www.media.mit.edu/" target="_blank" rel="noopener">  CUNY : Ending the HIV Epidemic Prize      </a>
+  (Mar. 2021)
+   
 </p>
+
 <li>
 
 
