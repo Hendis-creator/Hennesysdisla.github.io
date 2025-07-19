@@ -135,7 +135,7 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 <p> 
       
-  <a href="https://www.buffalo.edu/partnerships/about/programs/ub-cultivator.html/" target="_blank" rel="noopener"> University of Buffalo Cultivator $100,000 Pre-seed investment </a>
+  <a href="https://www.buffalo.edu/partnerships/about/programs/ub-cultivator.html/" target="_blank" rel="noopener"> University of Buffalo Cultivator Pre-seed investment </a>
   (Mar. 2023) 
 
   <a href="https://www.futurefounders.com/" target="_blank" rel="noopener"> Future Founders Seed Grant </a>
@@ -144,7 +144,7 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
   <a href="https://www.media.mit.edu/" target="_blank" rel="noopener"> MIT Media Lab Travel Grant</a>
   (Mar. 2021)
 
-  <a href="https://www.media.mit.edu/" target="_blank" rel="noopener">  CUNY : Ending the HIV Epidemic Prize      </a>
+  <a href="https://sph.cuny.edu/event/designathon-ending-the-hiv-epidemic/)/" target="_blank" rel="noopener">  CUNY : Ending the HIV Epidemic Prize      </a>
   (Mar. 2021)
    
 </p>
