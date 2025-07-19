@@ -147,12 +147,13 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
   <a href="https://www.media.mit.edu/" target="_blank" rel="noopener"> MIT Media Lab Travel Grant</a>
   (Mar. 2018)
 
-<hr/>
+<hr2/>
 
-Cool Things I’ve Built/Done
+<h3 id="recent-papers-latest-first"> Passion Projects </h3>
 
- <a href="https://www.youtube.com/watch?v=Qbq3eCIeKis" target="_blank" rel="noopener">  CUNY : Ending the HIV Epidemic Prize </a>
-  (Mar. 2021)
+
+ <a href="https://www.youtube.com/watch?v=Qbq3eCIeKis" target="_blank" rel="noopener"> SINAIMedMaker Challenge Pitch Presentation - VR Analgesia </a>
+  (Mar. 2016)
 
 
   
