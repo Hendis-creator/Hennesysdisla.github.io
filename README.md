@@ -27,7 +27,7 @@
    </p>
     
   At ArmHug, I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
-      <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q" target="_blank" rel="noopener"> Preventive testing</a>
+      <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q/" target="_blank" rel="noopener">QC Testing</a>
       (Jan. 2025),
       <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">DOT</a>
       (Feb. 2024),
