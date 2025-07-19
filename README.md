@@ -132,7 +132,7 @@
   Team members: Yi (Lilly) Zhang,and Hennesys Disla 
   (Mar. 2016)
 
-<h2 id="recent-papers-latest-first"> Publications </h2>
+<h2 id="recent-papers-latest-first"> Publication </h2>
 
 <ul id="papers-list" class="bibliography">
       
