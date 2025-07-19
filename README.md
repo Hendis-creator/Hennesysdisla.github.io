@@ -143,9 +143,7 @@
 
 <hr2/>
 
-<hr />
-
-<h3 id="recent-papers-latest-first"> Patent (2018-2024) </h3>
+<h3 id="recent-papers-latest-first"> Patent </h3>
 
 <ul id="papers-list" class="bibliography">
 
@@ -155,8 +153,7 @@
     
 Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Sinai .<br />
 
-    
-</li>
+
 
 
 
