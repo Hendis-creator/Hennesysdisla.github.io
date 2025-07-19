@@ -105,21 +105,21 @@
 
 <ul id="papers-list" class="bibliography">
 
-  <li>
+<li>
     
  <strong><a href="https://patents.google.com/patent/US20220054061A1" target="_blank" rel="noopener">Portable phlebotomy station with internal storage </a></strong><br />
     
 Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Sinai .<br />
 
     
-  </li>
+</li>
 
-  <hr />
+<hr/>
 
 <h2 id="recent-papers-latest-first"> Publications </h2>
 
 <ul id="papers-list" class="bibliography">
-
+      
 <li>
     
  <strong><a href="https://www.neurology.org/doi/10.1212/WNL.88.16_supplement.P6.379" target="_blank" rel="noopener">American Academy of Neurology</a></strong><br />
@@ -129,11 +129,14 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 <hr />
 
-<h3 id="recent-papers-latest-first"> Awards & Recognitions </h3>
+   <h3 id="recent-papers-latest-first"> Awards </h3>
 
-<ul id="papers-list" class="bibliography">
+ <a href=" https://www.media.mit.edu/" target="_blank" rel="noopener">Travel Grant</a>
+      (Mar. 2021)
 
- </li>
+       <ul id="papers-list" class="bibliography">
+
+<li>
 
 
 
