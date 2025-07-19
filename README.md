@@ -127,11 +127,19 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 <li>
 
-    (2025) CUNY Paper Coming soon..
+    (2025)  CUNY School of Public Health and Einstein
     
 </li>
 
+ </li>
 
+<hr />
+
+<h3 id="recent-papers-latest-first"> Awards & Recognitions </h3>
+
+<ul id="papers-list" class="bibliography">
+
+<li>
 
 
 
