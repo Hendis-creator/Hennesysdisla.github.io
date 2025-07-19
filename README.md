@@ -151,7 +151,7 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 <h3 id="recent-papers-latest-first"> Selected Projects </h3>
 
-<a href="https:// https://health.mountsinai.org/health-hackathon/" target="_blank" rel="noopener"> Mount Sinai Innovation Showcase 2019 Finalist </a>
+<a href="https:// https://health.mountsinai.org/health-hackathon/" target="_blank" rel="noopener"> Mount Sinai Innovation Finalist 2019 </a>
    Walk Thru – Re-invention of the walker for patients with Huntington’s disease with a portable accessory to facilitate getting through doors.
    Team Members: Brandon Dale, Chih Peng Chin, Greg Caubel, Hennesys Disla, Jiaqi Shen, Matthew Lin, Nicole Zatorski, Rebecca Choi, and Tiphaine Martin
   (Mar. 2018)
