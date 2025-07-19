@@ -114,6 +114,19 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
     
   </li>
 
+  <hr />
+
+<h2 id="recent-papers-latest-first">Recent papers </h2>
+
+<ul id="papers-list" class="bibliography">
+
+<li>
+    
+      <strong><a href="https://arxiv.org/abs/2412.16720" target="_blank" rel="noopener">OpenAI o1 System Card</a></strong><br />
+    
+    Aaron Jaech, Adam Kalai, Adam Lerer, Adam Richardson, Ahmed El-Kishky, Aiden Low, Alec Helyar, Aleksander Madry, Alex Beutel, Alex Carney, and others.<br />
+
+    CUNY Paper Coming soon..
 
 
 
