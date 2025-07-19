@@ -32,7 +32,7 @@
       <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">DOT</a>
       (Feb. 2024),
       <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Therapy</a>
-      (Mar. 2025). I currently focus on implementing cross-sell strategy across 20+ client accounts, resulting in 150% increase in product adoption and strengthening client relationships through value-added solutions.
+      (Mar. 2025). I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.
     </p>
 
 <p>
@@ -104,6 +104,16 @@
 <h2 id="recent-papers-latest-first"> Patents & Publications (latest first)</h2>
 
 <ul id="papers-list" class="bibliography">
+
+  <li>
+    
+ <strong><a href="https://arxiv.org/abs/2504.12516" target="_blank" rel="noopener">BrowseComp:Portable phlebotomy station with internal storage </a></strong><br />
+    
+Inventor, Hennesys Disla Current Assignee; Icahn School of Medicine at Mount Sinai .<br />
+
+    
+  </li>
+
 
 
 
