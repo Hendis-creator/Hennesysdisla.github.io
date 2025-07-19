@@ -98,27 +98,6 @@
 </div>
 
 <p> <button id="openai-more-button" class="more-button" data-target="#openai-videos">Show more</button></p>
-
-<hr />
-
-<h2 id="recent-papers-latest-first"> Patent (2018-2024) </h2>
-
-<ul id="papers-list" class="bibliography">
-
-<li>
-    
- <strong><a href="https://patents.google.com/patent/US20220054061A1" target="_blank" rel="noopener">Portable phlebotomy station with internal storage </a></strong><br />
-    
-Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Sinai .<br />
-
-    
-</li>
-
-<hr/>
-
-<h2 id="recent-papers-latest-first"> Publications </h2>
-
-<ul id="papers-list" class="bibliography">
       
 <hr2/>
 
@@ -166,13 +145,13 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 <hr />
 
-<h2 id="recent-papers-latest-first"> Patent (2018-2024) </h2>
+<h3 id="recent-papers-latest-first"> Patent (2018-2024) </h3>
 
 <ul id="papers-list" class="bibliography">
 
 <li>
     
- <strong><a href="https://patents.google.com/patent/US20220054061A1" target="_blank" rel="noopener">Portable phlebotomy station with internal storage </a></strong><br />
+<strong><a href="https://patents.google.com/patent/US20220054061A1" target="_blank" rel="noopener">Portable phlebotomy station with internal storage </a></strong><br />
     
 Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Sinai .<br />
 
