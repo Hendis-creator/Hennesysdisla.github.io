@@ -101,7 +101,7 @@
 
 <hr />
 
-<h2 id="recent-papers-latest-first"> Patents & Publications (latest first)</h2>
+<h2 id="recent-papers-latest-first"> Patent (2018-2024) </h2>
 
 <ul id="papers-list" class="bibliography">
 
@@ -109,7 +109,7 @@
     
  <strong><a href="https://arxiv.org/abs/2504.12516" target="_blank" rel="noopener">BrowseComp:Portable phlebotomy station with internal storage </a></strong><br />
     
-Inventor, Hennesys Disla Current Assignee; Icahn School of Medicine at Mount Sinai .<br />
+Inventor; Hennesys Disla, Current Assignee; Icahn School of Medicine at Mount Sinai .<br />
 
     
   </li>
