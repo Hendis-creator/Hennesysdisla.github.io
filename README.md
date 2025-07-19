@@ -127,15 +127,17 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 <li>
 
-<hr />
+<hr3/>
 
    <h3 id="recent-papers-latest-first"> Awards </h3>
 
- <a href=" https://www.media.mit.edu/" target="_blank" rel="noopener">Travel Grant</a>
-      (Mar. 2021)
+</p> 
 
-       <ul id="papers-list" class="bibliography">
-
+<p> 
+  <a href="https://www.media.mit.edu/"target="_blank" rel="noopener">Travel Grant</a>
+   (Mar. 2021)
+        
+</p>
 <li>
 
 
