@@ -120,13 +120,6 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 <ul id="papers-list" class="bibliography">
       
-<li>
-    
- <strong><a href="https://www.neurology.org/doi/10.1212/WNL.88.16_supplement.P6.379" target="_blank" rel="noopener">American Academy of Neurology</a></strong><br />
- Ilana Katz Sand, Yunjiao Zhu, Egle Cekanaviciute, Bruce Cree, Sarkis Mazmanian, Hennesys Disla, Justine Debelius, Rob Knight, Corey Watson, Sneha Singh, Rachel         Kanner, Sergio Baranzini, and Patrizia Casaccia (2017).<br />
-
-<li>
-
 <hr2/>
 
 <h3 id="recent-papers-latest-first"> Awards Totaling $152,000+ </h3>
@@ -149,7 +142,7 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 
 <hr2/>
 
-<h3 id="recent-papers-latest-first"> Selected Projects </h3>
+<h3 id="recent-papers-latest-first"> Exploratory Work </h3>
 
 <a href="https://https://health.mountsinai.org/health-hackathon/" target="_blank" rel="noopener"> Mount Sinai Innovation Finalist 2019 </a>
    Walk Thru – Re-invention of the walker for patients with Huntington’s disease with a portable accessory to facilitate getting through doors.
@@ -160,7 +153,16 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
   Team members: Yi (Lilly) Zhang,and Hennesys Disla 
   (Mar. 2016)
 
+<h2 id="recent-papers-latest-first"> Publications </h2>
 
+<ul id="papers-list" class="bibliography">
+      
+<li>
+    
+ <strong><a href="https://www.neurology.org/doi/10.1212/WNL.88.16_supplement.P6.379" target="_blank" rel="noopener">American Academy of Neurology</a></strong><br />
+ Ilana Katz Sand, Yunjiao Zhu, Egle Cekanaviciute, Bruce Cree, Sarkis Mazmanian, Hennesys Disla, Justine Debelius, Rob Knight, Corey Watson, Sneha Singh, Rachel Kanner, Sergio Baranzini, and Patrizia Casaccia (2017).<br />
+
+<hr2/>
   
 
 </p>
