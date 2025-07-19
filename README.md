@@ -136,16 +136,16 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 <p> 
 
   <a href="https://tinyurl.com/24t6awbz" target="_blank" rel="noopener"> University of Buffalo Cultivator Pre-seed investment </a>
-  (Mar. 2023) 
+  (Oct. 2023) 
 
   <a href="https://sph.cuny.edu/event/designathon-ending-the-hiv-epidemic/" target="_blank" rel="noopener">  CUNY : Ending the HIV Epidemic Prize </a>
-  (Mar. 2021)
+  (Jan. 2021)
 
   <a href="https://www.futurefounders.com/" target="_blank" rel="noopener"> Future Founders Seed Grant </a>
   (Mar. 2020) 
 
   <a href="https://www.media.mit.edu/" target="_blank" rel="noopener"> MIT Media Lab Travel Grant</a>
-  (Mar. 2018)
+  (July. 2018)
 
 <hr2/>
 
@@ -154,7 +154,7 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 <a href="https://https://health.mountsinai.org/health-hackathon/" target="_blank" rel="noopener"> Mount Sinai Innovation Finalist 2019 </a>
    Walk Thru – Re-invention of the walker for patients with Huntington’s disease with a portable accessory to facilitate getting through doors.
    Team Members: Brandon Dale, Chih Peng Chin, Greg Caubel, Hennesys Disla, Jiaqi Shen, Matthew Lin, Nicole Zatorski, Rebecca Choi, and Tiphaine Martin
-  (October. 2018)
+  (Oct. 2018)
 
  <a href="https://www.youtube.com/watch?v=Qbq3eCIeKis" target="_blank" rel="noopener"> SINAIMedMaker Challenge Pitch Presentation - VR Analgesia </a>
   Team members: Yi (Lilly) Zhang,and Hennesys Disla 
