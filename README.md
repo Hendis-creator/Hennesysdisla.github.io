@@ -27,11 +27,11 @@
    </p>
     
   At ArmHug, I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
-      <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q" target="_blank" rel="noopener">#49</a>
+      <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q" target="_blank" rel="noopener"> Preventive testing</a>
       (Jan. 2025),
-      <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">#36</a>
+      <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">DOT</a>
       (Feb. 2024),
-      <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Hydration</a>
+      <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Therapy</a>
       (Mar. 2025). I currently focus on implementing cross-sell strategy across 20+ client accounts, resulting in 150% increase in product adoption and strengthening client relationships through value-added solutions.
     </p>
 
