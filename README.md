@@ -47,7 +47,7 @@
     </p>
 
  <p>
-   I speak Spanish and I currently live in Ewing, NJ.
+   I speak Spanish and I currently live in New Jersey.
     </p>
     
   </div>
