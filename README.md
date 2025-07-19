@@ -28,21 +28,21 @@
     
   At ArmHug, I was a foundational contributor to the ArmHug Podcast, building resources for our clients to continued education. 
       <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q" target="_blank" rel="noopener">Podcast Episode </a>
-      (Feb. 2025),
+      (Jan. 2025),
       <a href="https://openai.com/index/learning-to-reason-with-llms/" target="_blank" rel="noopener">o1</a>
-      (Dec. 2024),
+      (Feb. 2024),
       <a href="https://openai.com/index/introducing-deep-research/" target="_blank" rel="noopener">Deep Research</a>
-      (Feb. 2025). I currently focus on coding agents and led the Codex mini model-training.
+      (Mar. 2025). I currently focus on coding agents and led the Codex mini model-training.
     </p>
 
 <p>
       Prior to ArmHug, 
       <a href="https://www.sermo.com" target="_blank" rel="noopener">SERMO</a>
-      Where I worked on whatever bottleneck stood in the way of further scaling: building JAX-based large-scale training system (T5X), training large models (e.g.       PaLM), instruction fine-tuning (Flan-PaLM and Flan-T5 model families) and reasoning.
+      Where I worked on whatever bottleneck stood in the way of further scaling: building JAX-based large-scale training system (T5X), training large models (e.g.PaLM), instruction fine-tuning (Flan-PaLM and Flan-T5 model families) and reasoning.
     </p>
 
  <p>
-      Prior to SERMO, 
+      Prior to SERMO, I was a research scientist at
       <a href="https://www.mountsinai.org" target="_blank" rel="noopener">Mount Sinai Hospital</a>.
     </p>
 
