@@ -32,13 +32,13 @@
       <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">#36</a>
       (Feb. 2024),
       <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Hydration</a>
-      (Mar. 2025). I currently focus on coding agents and led the Codex mini model-training.
+      (Mar. 2025). I currently focus on implementing cross-sell strategy across 20+ client accounts, resulting in 150% increase in product adoption and strengthening client relationships through value-added solutions.
     </p>
 
 <p>
       Prior to ArmHug, 
       <a href="https://www.sermo.com" target="_blank" rel="noopener">SERMO</a>
-      Where I worked on whatever bottleneck stood in the way of further scaling: building JAX-based large-scale training system (T5X), training large models (e.g.PaLM), instruction fine-tuning (Flan-PaLM and Flan-T5 model families) and reasoning.
+      Elevated client satisfaction from 60% to 85% by introducing success milestones and expectation alignment, securing $130,000 in additional renewal revenue through improved outcomes.
     </p>
 
  <p>
@@ -47,7 +47,7 @@
     </p>
 
  <p>
-   I speak Spanish, currently live in Ewing, NJ.
+   I speak Spanish and I currently live in Ewing, NJ.
     </p>
     
   </div>
