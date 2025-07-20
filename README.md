@@ -1,9 +1,6 @@
 
 <a class="site-title" href="https://www.linkedin.com/in/hennesysdisla/" target="_blank" rel="noopener">Hennesys Disla</a>
 
-<section class="page__content" itemprop="text">
-      <!-- ░░░ Personal summary ░░░ -->
-<div class="intro-text">
     <p>
       I was previously a Founder, (Co-founder 2022-2023)
       <a href="https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener">ArmHug</a>. 
@@ -16,7 +13,8 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
       (Feb. 2025),
       <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Therapy</a>
       (Mar. 2025). 
-    </p>
+      
+   </p>
 
 <p>
       Prior to ArmHug, 
