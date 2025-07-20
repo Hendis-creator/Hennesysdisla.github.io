@@ -1,13 +1,8 @@
 
 <a class="site-title" href="https://www.linkedin.com/in/hennesysdisla/" target="_blank" rel="noopener">Hennesys Disla</a>
 
-
 <section class="page__content" itemprop="text">
       <!-- ░░░ Personal summary ░░░ -->
-
-
-  </div>
-
 <div class="intro-text">
     <p>
       I was previously a Founder, (Co-founder 2022-2023)
@@ -37,9 +32,6 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
  <p>
    I speak Spanish and I currently live in New Jersey.
     </p>
-    
-  </div>
-</div>
 
 <h2 id="selected-work-at-openai"> Notable Articles About ArmHug</h2>
 
