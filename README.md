@@ -89,6 +89,8 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
    Team Members: Brandon Dale, Chih Peng Chin, Greg Caubel, Hennesys Disla, Jiaqi Shen, Matthew Lin, Nicole Zatorski, Rebecca Choi, and Tiphaine Martin
   (Oct. 2018)
 
+<li>
+
  <a href="https://www.youtube.com/watch?v=Qbq3eCIeKis" target="_blank" rel="noopener"> SINAIMedMaker Challenge Pitch Presentation - VR Analgesia </a>
   Team members: Hennesys Disla and Yi (Lilly) Zhang
   (Mar. 2016)
