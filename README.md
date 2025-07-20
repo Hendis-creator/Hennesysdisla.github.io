@@ -15,7 +15,7 @@
 <div class="intro-text">
     <p>
       I was previously a Founder, (Co-founder 2022-2023)
-      <a href="https://armhug.com" target="_blank" rel="noopener">ArmHug</a>. 
+      <a href="https://armhug.com](https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener">ArmHug</a>. 
    </p>
     
 At ArmHug, I was working directly with corporate clients but beyond that I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
