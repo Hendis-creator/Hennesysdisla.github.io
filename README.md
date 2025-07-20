@@ -57,9 +57,9 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
       (Sep.2019),
      Press:
        <a href="https://tinyurl.com/3snb5b3r/"target="_blank" rel="noopener">UB Cultivator program</a>
-    Buffalo NY:
+    Buffalo,NY:
        <a href="https://tinyurl.com/3snb5b3r"target="_blank" rel="noopener"> The Buffalo News</a>
-    California CA:
+    California,CA:
        <a href="https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">Sacramento Business Journal</a>
   
 </p>
