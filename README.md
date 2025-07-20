@@ -4,43 +4,12 @@
       <nav id="site-nav" class="greedy-nav">
         
 <a class="site-title" href="https://www.linkedin.com/in/hennesysdisla/" target="_blank" rel="noopener">Hennesys Disla</a>
-          
-</a>
-        <ul class="visible-links"></ul>
-         <button class="greedy-nav__toggle hidden" type="button">
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
-
-
-    <div class="initial-content">
-
 
 
 <section class="page__content" itemprop="text">
       <!-- ░░░ Personal summary ░░░ -->
 
-<!-- ░░░ Bio block with photo and links ░░░ -->
-<div class="intro-flex">
-  <div class="intro-left">          <!-- NEW wrapper -->
-      <img src="/assets/images/profile.png" alt="Hennesys Disla" class="intro-avatar" />
-        <!-- social icons -->
-        <p class="social-links">
-          <a href="(https://www.instagram.com/arm.hug/)" aria-label="Twitter">
-            <i class="fa-brands fa-x-twitter"></i>
-          </a>
-          <a href="https://scholar.google.com/citations?user=1CAlXvYAAAAJ&amp;hl=en" aria-label="Google Scholar">
-            <i class="ai ai-google-scholar"></i>
-          </a>
-          <a href="mailto:hennesys.disla@gmail.com" aria-label="Email">
-            <i class="fa-solid fa-envelope"></i>
-          
-          </a>
-        </p>
+
   </div>
 
 <div class="intro-text">
@@ -76,15 +45,13 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
   </div>
 </div>
 
-<h2 id="selected-work-at-openai">Selected work at ArmHug </h2>
+<h2 id="selected-work-at-openai">Selected work at ArmHug</h2>
 
 </div>  
 
+<p> 
 
-<p>
-  
 Articles were written about the work I did and often about the work that I was doing.
-
 <a href="https://www.futurefounders.com/news-article/meet-the-founder-changing-the-way-the-world-thinks-of-needles/" target="_blank" rel="noopener"></a>
       (Sept. 2021),
        I was accepted in the prestigious ELabNYC for Health and life science comapnies. 
@@ -92,10 +59,12 @@ Articles were written about the work I did and often about the work that I was d
       (Sep.2019),
 <a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="Crunchbase"> Here is a heat map of the company </a>
 
-In my next role,  I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.
-      
+<a href=" https://www.bizjournals.com/sacramento/news/2020/08/06/fourthwave-picks-companies-business-accelerator.html " target="_blank" rel="FOURTHWAVE"> Sacromento Business Journal
+
+In my next role,  I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.     
 </p>
 
+  </div>
 </div>
       
 <hr2/>
