@@ -50,21 +50,22 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 </div>  
 
 <p> 
-    Buffalo,NY:
+  <li>
+   New York (Sep.2023):
        <a href="https://tinyurl.com/3snb5b3r"target="_blank" rel="noopener"> The Buffalo News</a>
-    California,CA:
+    California (Sept. 2020):
        <a href="https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">Sacramento Business Journal</a>
+  <li>
     <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener">Future Founders</a>
       (Sept. 2021),
      Contributor to Health and life science companies:
        <a href="https://tinyurl.com/58fpxvkz" target="_blank" rel="noopener">ELabNYC</a>
       (Sep.2019),
-     Press:
-  
-</p>
+
+   </div>
+</div>
 
 
-In my next role,  I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.     
 </p>
 
   </div>
