@@ -107,10 +107,10 @@ At ArmHug, I was a foundational contributor to the ArmHug Podcast, building reso
   <a href="https://sph.cuny.edu/event/designathon-ending-the-hiv-epidemic/" target="_blank" rel="noopener">  CUNY : Ending the HIV Epidemic Prize </a>
   (Jan. 2021)
 
-  <a href="https://www.futurefounders.com/" target="_blank" rel="noopener"> Future Founders Seed Grant </a>
+  <a href="https://www.futurefounders.com/" target="_blank" rel="noopener"> Future Founders Grant </a>
   (Mar. 2020) 
 
-  <a href="https://www.media.mit.edu/" target="_blank" rel="noopener"> MIT Media Lab Travel Grant</a>
+  <a href="https://www.media.mit.edu/" target="_blank" rel="noopener"> MIT Media Lab Grant</a>
   (July. 2018)
 
 <hr2/>
