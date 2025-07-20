@@ -1,6 +1,5 @@
 
 <a class="site-title" href="https://www.linkedin.com/in/hennesysdisla/" target="_blank" rel="noopener">Hennesys Disla</a>
-
     <p>
       I was previously a Founder, (Co-founder 2022-2023)
       <a href="https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener">ArmHug</a>. 
