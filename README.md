@@ -38,7 +38,6 @@ Prior to ArmHug,
    <li> 
      Health and Life science companies: <a href="https://tinyurl.com/mrx2u952" target="_blank" rel="noopener">ELabNYC</a>
       (Jun.2019)  
-</p>
       
 <hr2/>
 
