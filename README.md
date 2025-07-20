@@ -102,7 +102,7 @@ In my next role,  I want to be in a position where I can proactively help client
 
 <h3 id="recent-papers-latest-first"> Healthcare Innovation Competitions </h3>
 
-<a href="https://tinyurl.com/yyfspz39/" target="_blank" rel="noopener"> Mount Sinai Innovation Finalist 2018 </a>
+<a href="https://tinyurl.com/yyfspz39/" target="_blank" rel="noopener"> Mount Sinai Rare Diseases Innovation Finalist 2018 </a>
    Walk Thru – Re-invention of the walker for patients with Huntington’s disease with a portable accessory to facilitate getting through doors.
    Team Members: Brandon Dale, Chih Peng Chin, Greg Caubel, Hennesys Disla, Jiaqi Shen, Matthew Lin, Nicole Zatorski, Rebecca Choi, and Tiphaine Martin
   (Oct. 2018)
