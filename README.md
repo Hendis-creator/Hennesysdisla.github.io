@@ -81,13 +81,13 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 
 <div id="ArmHug-videos" class="video-grid">
       
-Articles were written about the work I did and  often about the work that I was doing.
-      <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q/" target="_blank" rel="noopener">Pico IV</a>
-      (Jan. 2025),
+Articles were written about the work I did and often about the work that I was doing.
+      <a href="https://www.futurefounders.com/news-article/meet-the-founder-changing-the-way-the-world-thinks-of-needles/" target="_blank" rel="noopener"></a>
+      (Sept. 2021),
       I was accepted in the prestigious ELabNYC for Health and life science comapnies. 
-      <a href=" https://www.elabnyc.com/participants/" target="_blank" rel="noopener">DOT</a>
-      (Spe.2019),
-      <a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener"> Here is a heat map of the company on Crucnhbase</a>
+      <a href=" https://www.elabnyc.com/participants/" target="_blank" rel="noopener">ELabNYC</a>
+      (Sep.2019),
+      <a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="Crunchbase"> Here is a heat map of the company </a>
      In my next role,  I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.
       
     </p>
