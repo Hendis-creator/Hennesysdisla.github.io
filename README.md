@@ -50,28 +50,16 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 </div>  
 
 <p> 
-Articles were written about the work I did and often about the work that I was doing.
        <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener">Press</a>
       (Sept. 2021),
-       I was accepted in the prestigious ELabNYC for Health and life science comapnies. 
+       Selected as a contributor to Health and life science comapnies. 
        <a href="https://tinyurl.com/58fpxvkz" target="_blank" rel="noopener">ELabNYC</a>
       (Sep.2019),
-      (April.2025)
-       <a href=" https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">Sacramento Business Journal</a>
-        Here is a heat map of the company.
-       <a href=" https://www.crunchbase.com/organization/armhug/"target="_blank" rel="noopener">Crunchbase"</a>
-        
+       <a href="https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">Sacramento Business Journal</a>
+        Here is a heat map of ArmHug.
+       <a href="https://www.crunchbase.com/organization/armhug/"target="_blank" rel="noopener">Crunchbase</a>
 </p>
 
- <p>
-      At OpenAI, my research focuses on reasoning and agents. I was a Foundational Contributor of
-      <a href="https://openai.com/index/introducing-openai-o1-preview/" target="_blank" rel="noopener">o1-preview</a>
-      (Sep. 2024),
-      <a href="https://openai.com/index/learning-to-reason-with-llms/" target="_blank" rel="noopener">o1</a>
-      (Dec. 2024),
-      <a href="https://openai.com/index/introducing-deep-research/" target="_blank" rel="noopener">Deep Research</a>
-      (Feb. 2025). I currently focus on coding agents and led the Codex mini model-training.
-</p>
 
 In my next role,  I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.     
 </p>
