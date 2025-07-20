@@ -14,7 +14,7 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 Prior to ArmHug, 
       <a href="https://www.sermo.com" target="_blank" rel="noopener">SERMO</a>
       I elevated client satisfaction from 60% to 85% by introducing success milestones and expectation alignment, securing $130,000 in additional renewal revenue          through improved outcomes in less than 20 months.
-    </p>
+ 
 
  <p>
       Prior to SERMO, I was a research scientist at
