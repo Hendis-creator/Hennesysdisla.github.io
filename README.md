@@ -1,9 +1,7 @@
 
 <a class="site-title" href="https://www.linkedin.com/in/hennesysdisla/" target="_blank" rel="noopener">Hennesys Disla</a>
-    <li>
       I was previously a Founder, (Co-founder 2022-2023)
       <a href="https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener">ArmHug</a>. 
-    <li>
     
 At ArmHug, I was working directly with corporate clients but beyond that I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
       <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q/" target="_blank" rel="noopener">Pico IV</a>
