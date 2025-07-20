@@ -45,7 +45,7 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
   </div>
 </div>
 
-<h2 id="selected-work-at-openai">Selected work at ArmHug</h2>
+<h2 id="selected-work-at-openai"> Notable Articles About ArmHug</h2>
 
 </div>  
 
@@ -59,7 +59,7 @@ Articles were written about the work I did and often about the work that I was d
        <a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="Crunchbase"> Here is a heat map of the company </a>
       (April.2025)
        <a href=" https://www.bizjournals.com/sacramento/news/2020/08/06/fourthwave-picks-companies-business-accelerator.html " target="_blank" rel="Sacramento Business Journal"> 
-       (
+        
 </p>
 
  <p>
