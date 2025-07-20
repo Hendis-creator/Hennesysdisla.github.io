@@ -3,8 +3,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-<a class="site-title" href="/">
-         Hennesys Disla 
+<a class="site-title" href="https://www.linkedin.com/in/hennesysdisla/" target="_blank" rel="noopener">Hennesys Disla</a>
           
 </a>
         <ul class="visible-links"></ul>
