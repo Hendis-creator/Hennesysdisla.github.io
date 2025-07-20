@@ -1,6 +1,6 @@
 
 <a class="site-title" href="https://www.linkedin.com/in/hennesysdisla/" target="_blank" rel="noopener"> Hennesys Disla: </a>
-      I was previously a Founder, (Co-founder 2022-2023)
+      I was previously a Founder at 
       <a href="https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener"> ArmHug</a>. 
     
 At ArmHug, I was working directly with corporate clients but beyond that I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
