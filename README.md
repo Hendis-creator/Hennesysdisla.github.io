@@ -60,7 +60,7 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
       (Sept.2021),
      Contributor to Health and life science companies:
        <a href="https://tinyurl.com/mrx2u952" target="_blank" rel="noopener">ELabNYC</a>
-      (Jun.2019),
+      (Jun.2019)
 
    </div>
 </div>
