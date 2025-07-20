@@ -123,7 +123,7 @@ At ArmHug, I was a foundational contributor to the ArmHug Podcast, building reso
   (Oct. 2018)
 
  <a href="https://www.youtube.com/watch?v=Qbq3eCIeKis" target="_blank" rel="noopener"> SINAIMedMaker Challenge Pitch Presentation - VR Analgesia </a>
-  Team members: Yi (Lilly) Zhang,and Hennesys Disla 
+  Team members: Hennesys Disla and Yi (Lilly) Zhang
   (Mar. 2016)
 
 <h2 id="recent-papers-latest-first"> Publication </h2>
