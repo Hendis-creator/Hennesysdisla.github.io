@@ -1,6 +1,5 @@
 title: Hennesys Disla
-logo: /assets/img/headshot_cirlce.png
-logo: /assets/img/headshot_circle.png
+logo: /assests/img/headshot_cirlce.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
