@@ -71,8 +71,6 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 
 <h3 id="recent-papers-latest-first"> Awards Totaling $150,000+ </h3>
 
-</p> 
-
 
 <p> 
 
