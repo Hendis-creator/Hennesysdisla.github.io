@@ -1,7 +1,6 @@
 
-<a class="site-title" href="https://www.linkedin.com/in/hennesysdisla/" target="_blank" rel="noopener">Hennesys Disla</a>
+<a class="site-title" href="https://www.linkedin.com/in/hennesysdisla/" target="_blank" rel="noopener">Hennesys Disla,</a>
 
- <li>
       I was previously a Founder, (Co-founder 2022-2023)
       <a href="https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener">ArmHug</a>. 
     
@@ -15,7 +14,7 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 
 Prior to ArmHug, 
       <a href="https://www.sermo.com" target="_blank" rel="noopener">SERMO</a>
-      I elevated client satisfaction from 60% to 85% by introducing success milestones and expectation alignment, securing $130,000 in additional renewal revenue        through improved outcomes in less than 20 months.
+      I elevated client satisfaction from 60% to 85% by introducing success milestones and expectation alignment, securing $130,000 in additional renewal revenue          through improved outcomes in less than 20 months.
     </p>
 
  <p>
