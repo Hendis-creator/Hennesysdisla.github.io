@@ -50,7 +50,7 @@
       <a href="https://armhug.com" target="_blank" rel="noopener">ArmHug</a>. 
    </p>
     
-  At ArmHug,I was working directly with clients and beyond that I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
+  At ArmHug, I was working directly with corporate clients but beyond that I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
       <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q/" target="_blank" rel="noopener">Pico IV</a>
       (Jan. 2025),
       <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">DOT</a>
