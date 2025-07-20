@@ -77,16 +77,25 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 
 </p> 
 
+
 <p> 
+
+<li>
 
   <a href="https://tinyurl.com/24t6awbz" target="_blank" rel="noopener"> University of Buffalo Cultivator Pre-seed investment </a>
   (Oct. 2023) 
 
+<li>
+  
   <a href="https://sph.cuny.edu/event/designathon-ending-the-hiv-epidemic/" target="_blank" rel="noopener">  CUNY : Ending the HIV Epidemic Prize </a>
   (Jan. 2021)
 
+<li>
+  
   <a href="https://www.futurefounders.com/" target="_blank" rel="noopener"> Future Founders Grant </a>
   (Mar. 2020) 
+
+<li>
 
   <a href="https://www.media.mit.edu/" target="_blank" rel="noopener"> MIT Media Lab Grant</a>
   (July. 2018)
