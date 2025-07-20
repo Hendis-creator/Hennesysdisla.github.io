@@ -59,7 +59,7 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
     <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener">Future Founders</a>
       (Sept. 2021),
      Contributor to Health and life science companies:
-       <a href="https://tinyurl.com/58fpxvkz" target="_blank" rel="noopener">ELabNYC</a>
+       <a href="https://tinyurl.com/mrx2u952" target="_blank" rel="noopener">ELabNYC</a>
       (Sep.2019),
 
    </div>
