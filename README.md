@@ -33,11 +33,9 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 <h2 id="selected-work-at-openai"> Notable Articles About ArmHug</h2>
 
   <li>
-     
       <a href="https://tinyurl.com/3snb5b3r"target="_blank" rel="noopener"> The Buffalo News</a>
        New York (Nov.2023)
   <li>
-     
        <a href="https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">Sacramento Business Journal</a>
         California (Aug.2020)
   <li>
