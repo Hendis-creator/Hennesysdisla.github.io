@@ -25,9 +25,7 @@ Prior to SERMO, I was a research scientist at
 <h2 id="selected-work-at-openai"> Notable Articles About ArmHug</h2>
 
    <p> 
-
   <li>
-
 <a href="https://tinyurl.com/3snb5b3r" target="_blank" rel="noopener"> The Buffalo News</a>
        New York (Nov.2023)
   <li>
