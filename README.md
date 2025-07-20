@@ -50,7 +50,7 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 </div>  
 
 <p> 
-       <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener">Press</a>
+       <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener">Meet the Founder Changing the Way the World Thinks of Needles</a>
       (Sept. 2021),
        Selected as a contributor to Health and life science comapnies. 
        <a href="https://tinyurl.com/58fpxvkz" target="_blank" rel="noopener">ELabNYC</a>
@@ -111,7 +111,7 @@ In my next role,  I want to be in a position where I can proactively help client
 
 <hr2/>
 
-<h3 id="recent-papers-latest-first"> Patent </h3>
+<h3 id="recent-papers-latest-first"> Patent (2021) </h3>
 
 <ul id="papers-list" class="bibliography">
 
