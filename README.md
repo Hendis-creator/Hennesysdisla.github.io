@@ -50,7 +50,7 @@
       <a href="https://armhug.com" target="_blank" rel="noopener">ArmHug</a>. 
    </p>
     
-  At ArmHug, I was working directly with corporate clients but beyond that I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
+At ArmHug, I was working directly with corporate clients but beyond that I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
       <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q/" target="_blank" rel="noopener">Pico IV</a>
       (Jan. 2025),
       <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">DOT</a>
@@ -81,13 +81,14 @@
 
 <div id="ArmHug-videos" class="video-grid">
       
-At ArmHug, I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
+Articles were written about the work I did and  often about the work that I was doing.
       <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q/" target="_blank" rel="noopener">Pico IV</a>
       (Jan. 2025),
-      <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">DOT</a>
-      (Feb. 2025),
-      <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Therapy</a>
-      (Mar. 2025). I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.
+      I was accepted in the prestigious ELabNYC for Health and life science comapnies. 
+      <a href=" https://www.elabnyc.com/participants/" target="_blank" rel="noopener">DOT</a>
+      (Spe.2019),
+      <a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener"> Here is a heat map of the company on Crucnhbase</a>
+     In my next role,  I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.
       
     </p>
 
