@@ -52,11 +52,14 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 <p> 
        <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener">Meet the Founder Changing the Way the World Thinks of Needles</a>
       (Sept. 2021),
-       Selected as a contributor to Health and life science comapnies. 
+     Selected as a contributor to Health and life science companies:
        <a href="https://tinyurl.com/58fpxvkz" target="_blank" rel="noopener">ELabNYC</a>
       (Sep.2019),
+     Press:
+       <a href="https://tinyurl.com/3snb5b3r/"target="_blank" rel="noopener">UB's Cultivator program becomes major part of startup support system</a>
+       <a href="https://tinyurl.com/4rb7m2bj"target="_blank" rel="noopener"> The Buffalo News</a>
        <a href="https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">Sacramento Business Journal</a>
-        Here is a heat map of ArmHug.
+     Heat map of ArmHug:
        <a href="https://www.crunchbase.com/organization/armhug/"target="_blank" rel="noopener">Crunchbase</a>
 </p>
 
