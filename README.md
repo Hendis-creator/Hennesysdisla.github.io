@@ -10,9 +10,6 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
       (Feb. 2025),
       <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Therapy</a>
       (Mar. 2025). 
-      
-   </p>
-
 <p>
       Prior to ArmHug, 
       <a href="https://www.sermo.com" target="_blank" rel="noopener">SERMO</a>
