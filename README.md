@@ -24,7 +24,7 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
       <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">DOT</a>
       (Feb. 2025),
       <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Therapy</a>
-      (Mar. 2025). I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.
+      (Mar. 2025). 
     </p>
 
 <p>
@@ -50,16 +50,26 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 </div>  
 
 <p> 
-
 Articles were written about the work I did and often about the work that I was doing.
-<a href="https://www.futurefounders.com/news-article/meet-the-founder-changing-the-way-the-world-thinks-of-needles/" target="_blank" rel="noopener"></a>
+       <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="Press">Press</a>
       (Sept. 2021),
        I was accepted in the prestigious ELabNYC for Health and life science comapnies. 
-<a href=" https://www.elabnyc.com/participants/" target="_blank" rel="noopener">ELabNYC</a>
+       <a href="https://tinyurl.com/58fpxvkz" target="_blank" rel="noopener">ELabNYC</a>
       (Sep.2019),
-<a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="Crunchbase"> Here is a heat map of the company </a>
+       <a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="Crunchbase"> Here is a heat map of the company </a>
+       <a href=" https://www.bizjournals.com/sacramento/news/2020/08/06/fourthwave-picks-companies-business-accelerator.html " target="_blank" rel="Sacramento Business Journal"> 
 
-<a href=" https://www.bizjournals.com/sacramento/news/2020/08/06/fourthwave-picks-companies-business-accelerator.html " target="_blank" rel="FOURTHWAVE"> Sacromento Business Journal
+</p>
+
+ <p>
+      At OpenAI, my research focuses on reasoning and agents. I was a Foundational Contributor of
+      <a href="https://openai.com/index/introducing-openai-o1-preview/" target="_blank" rel="noopener">o1-preview</a>
+      (Sep. 2024),
+      <a href="https://openai.com/index/learning-to-reason-with-llms/" target="_blank" rel="noopener">o1</a>
+      (Dec. 2024),
+      <a href="https://openai.com/index/introducing-deep-research/" target="_blank" rel="noopener">Deep Research</a>
+      (Feb. 2025). I currently focus on coding agents and led the Codex mini model-training.
+</p>
 
 In my next role,  I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.     
 </p>
