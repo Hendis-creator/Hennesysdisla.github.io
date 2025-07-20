@@ -81,47 +81,17 @@
 
 <div id="ArmHug-videos" class="video-grid">
       
-<!-- ░░░ Visible on load ░░░ -->
-<figure class="video-item">
-<figcaption>o1 launch livestream</figcaption>
-      <iframe src="[https://www.youtube.com/watch?autoplay=autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" title="o1 livestream" loading="lazy"></iframe>
-</figure>
-
-<figure class="video-item">
-  <figcaption>Researchers behind o1</figcaption>
-  <iframe src="https://www.youtube.com/embed/3k89FMJhZ00?playsinline=1&amp;rel=0&amp;mute=1" title="Researchers behind o1" loading="lazy"></iframe>
-</figure>
-
-<!-- ░░░ Hidden on load – NOTE: data-src, NOT src ░░░ -->
-<figure class="video-item hidden">
-  <figcaption>o1-preview demo 1</figcaption>
-  <iframe data-src="https://www.youtube.com/embed/50W4YeQdnSg?playsinline=1&amp;rel=0&amp;mute=1" title="o1-preview demo 1" loading="lazy"></iframe>
-</figure>
-
-<figure class="video-item hidden">
-  <figcaption>o1-preview demo 2</figcaption>
-  <iframe data-src="https://www.youtube.com/embed/eZDmDn6Iq9Y?playsinline=1&amp;rel=0&amp;mute=1" title="o1-preview demo 2" loading="lazy"></iframe>
-</figure>
-
-<figure class="video-item hidden">
-  <figcaption>o1-preview demo 3</figcaption>
-  <iframe data-src="https://www.youtube.com/embed/1tX5aea0La4?playsinline=1&amp;rel=0" title="o1-preview demo 3" loading="lazy"></iframe>
-</figure>
-
-<figure class="video-item hidden">
-  <figcaption>Codex mini demo</figcaption>
-  <iframe data-src="https://www.youtube.com/embed/O-ZfXbfAMKU?rel=0&amp;mute=1" title="Codex mini demo" loading="lazy"></iframe>
-</figure>
-
-
-<figure class="video-item hidden">
-  <figcaption>OpenAI Dev Day 2024</figcaption>
-  <iframe data-src="https://www.youtube.com/embed/vlqEwE2wVr4?si=3Z34rUcHUbCM9TJE&amp;mute=1" title="OpenAI Dev Day 2024" loading="lazy"></iframe>
-</figure>
+At ArmHug, I was a foundational contributor to the ArmHug Podcast, building resources for our clients in continued education. 
+      <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q/" target="_blank" rel="noopener">Pico IV</a>
+      (Jan. 2025),
+      <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">DOT</a>
+      (Feb. 2025),
+      <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Therapy</a>
+      (Mar. 2025). I want to be in a position where I can proactively help clients achieve measurable results while contributing to growth by strengthening customer loyalty and uncovering additional ways to support their evolving needs.
+      
+    </p>
 
 </div>
-
-<p> <button id="openai-more-button" class="more-button" data-target="#openai-videos">Show more</button></p>
       
 <hr2/>
 
@@ -170,6 +140,8 @@
 <h3 id="recent-papers-latest-first"> Patent </h3>
 
 <ul id="papers-list" class="bibliography">
+
+</div>
 
 <li>
     
