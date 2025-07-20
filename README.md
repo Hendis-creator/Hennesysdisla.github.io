@@ -57,9 +57,9 @@ Articles were written about the work I did and often about the work that I was d
        <a href="https://tinyurl.com/58fpxvkz" target="_blank" rel="noopener">ELabNYC</a>
       (Sep.2019),
       (April.2025)
-       <a href=" https://tinyurl.com/2w5mmfck" target="_blank" rel="Sacramento Business Journal"> 
+       <a href=" https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">"Sacramento Business Journal"</a>
         Here is a heat map of the company.
-       <a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="Crunchbase"</a>
+       <a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener">Crunchbase"</a>
         
 </p>
 
