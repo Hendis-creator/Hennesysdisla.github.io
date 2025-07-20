@@ -51,13 +51,13 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 
 <p> 
   <li>
-   New York (Nov.2023):
+      New York (Nov.2023):
        <a href="https://tinyurl.com/3snb5b3r"target="_blank" rel="noopener"> The Buffalo News</a>
-    California (Aug. 2020):
+      California (Aug.2020):
        <a href="https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">Sacramento Business Journal</a>
   <li>
-    <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener">Future Founders</a>
-      (Sept. 2021),
+       <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener">Future Founders</a>
+      (Sept.2021),
      Contributor to Health and life science companies:
        <a href="https://tinyurl.com/mrx2u952" target="_blank" rel="noopener">ELabNYC</a>
       (Jun.2019),
