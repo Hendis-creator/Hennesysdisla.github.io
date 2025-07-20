@@ -8,7 +8,6 @@
 </a>
         <ul class="visible-links"></ul>
          <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
