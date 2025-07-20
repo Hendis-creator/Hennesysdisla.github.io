@@ -51,15 +51,15 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 
 <p> 
 Articles were written about the work I did and often about the work that I was doing.
-       <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="Press">Press</a>
+       <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener">Press</a>
       (Sept. 2021),
        I was accepted in the prestigious ELabNYC for Health and life science comapnies. 
        <a href="https://tinyurl.com/58fpxvkz" target="_blank" rel="noopener">ELabNYC</a>
       (Sep.2019),
       (April.2025)
-       <a href=" https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">"Sacramento Business Journal"</a>
+       <a href=" https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">Sacramento Business Journal</a>
         Here is a heat map of the company.
-       <a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener">Crunchbase"</a>
+       <a href=" https://www.crunchbase.com/organization/armhug/"target="_blank" rel="noopener">Crunchbase"</a>
         
 </p>
 
