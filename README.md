@@ -28,10 +28,10 @@ Prior to SERMO, I was a research scientist at
        <a href="https://tinyurl.com/3snb5b3r" target="_blank" rel="noopener"> The Buffalo News</a>
        New York (Nov.2023)
   <li>
-       <a href="https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener">Sacramento Business Journal</a>
+       <a href="https://tinyurl.com/2w5mmfck" target="_blank" rel="noopener"> Sacramento Business Journal</a>
         California (Aug.2020)
   <li>
-       <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener">Future Founders</a>
+       <a href="https://tinyurl.com/bdfdkc5f" target="_blank" rel="noopener"> Future Founders</a>
       (Sept.2021)
    <li> 
      Health and Life science companies: <a href="https://tinyurl.com/mrx2u952" target="_blank" rel="noopener">ELabNYC</a>
