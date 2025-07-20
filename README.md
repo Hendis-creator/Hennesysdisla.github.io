@@ -141,7 +141,7 @@ At ArmHug, I was a foundational contributor to the ArmHug Podcast, building reso
 
 <ul id="papers-list" class="bibliography">
 
-</div>
+<div>
 
 <li>
     
