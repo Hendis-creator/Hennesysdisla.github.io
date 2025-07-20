@@ -43,9 +43,6 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 
 <h2 id="selected-work-at-openai"> Notable Articles About ArmHug</h2>
 
-</div>  
-
-<p> 
   <li>
       New York (Nov.2023):
        <a href="https://tinyurl.com/3snb5b3r"target="_blank" rel="noopener"> The Buffalo News</a>
@@ -70,7 +67,6 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 <hr2/>
 
 <h3 id="recent-papers-latest-first"> Awards Totaling $150,000+ </h3>
-
 
 <p> 
 
