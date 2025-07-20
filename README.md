@@ -88,7 +88,7 @@ Prior to SERMO, I was a research scientist at
 <li>
     
  <strong><a href="https://www.neurology.org/doi/10.1212/WNL.88.16_supplement.P6.379" target="_blank" rel="noopener">American Academy of Neurology</a></strong><br />
- Ilana Katz Sand, Yunjiao Zhu, Egle Cekanaviciute, Bruce Cree, Sarkis Mazmanian, Hennesys Disla, Justine Debelius, Rob Knight, Corey Watson, Sneha Singh, Rachel Kanner, Sergio Baranzini, and Patrizia Casaccia (2017).<br />
+ Ilana Katz Sand, Yunjiao Zhu, Egle Cekanaviciute, Bruce Cree, Sarkis Mazmanian, Hennesys Disla, Justine Debelius, Rob Knight, Corey Watson, Sneha Singh, Rachel Kanner, Sergio Baranzini, and Patrizia Casaccia (2017) <br />
 
 <hr2/>
 
