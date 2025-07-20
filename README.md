@@ -30,7 +30,7 @@ At ArmHug, I was working directly with corporate clients but beyond that I was a
 <p>
       Prior to ArmHug, 
       <a href="https://www.sermo.com" target="_blank" rel="noopener">SERMO</a>
-      I elevated client satisfaction from 60% to 85% by introducing success milestones and expectation alignment, securing $130,000 in additional renewal revenue through improved outcomes.
+      I elevated client satisfaction from 60% to 85% by introducing success milestones and expectation alignment, securing $130,000 in additional renewal revenue through improved outcomes in less than 20 months.
     </p>
 
  <p>
@@ -57,8 +57,9 @@ Articles were written about the work I did and often about the work that I was d
        <a href="https://tinyurl.com/58fpxvkz" target="_blank" rel="noopener">ELabNYC</a>
       (Sep.2019),
        <a href=" https://www.crunchbase.com/organization/armhug/" target="_blank" rel="Crunchbase"> Here is a heat map of the company </a>
+      (April.2025)
        <a href=" https://www.bizjournals.com/sacramento/news/2020/08/06/fourthwave-picks-companies-business-accelerator.html " target="_blank" rel="Sacramento Business Journal"> 
-
+       (
 </p>
 
  <p>
