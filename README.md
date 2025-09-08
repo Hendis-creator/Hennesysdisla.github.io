@@ -3,7 +3,7 @@
 
 I was previously a Founder at <a href="https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener"> ArmHug</a>. 
     
-At ArmHug, I worked directly with corporate clients and also served as a foundational contributor to the ArmHug Podcast, creating educational resources to support our clients’ continued learning.
+At ArmHug, I worked directly with corporate clients as a Customer Success Manager and also served as a foundational contributor to the ArmHug Podcast, creating educational resources to support our clients’ continued learning.
       <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q/" target="_blank" rel="noopener">Pico IV</a>
       (Jan. 2025),
       <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">DOT</a>
