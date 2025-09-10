@@ -13,7 +13,7 @@ At ArmHug, I worked directly with corporate clients as a Strategic Customer Succ
 
 Prior to ArmHug, 
       <a href="https://www.sermo.com" target="_blank" rel="noopener">SERMO</a>
-      : I was a Customer Success Manager, I elevated client satisfaction from 67% to 95% by introducing success milestones and expectation alignment, securing $130,000 in additional subscription renewal revenue and Retention through improved outcomes in less than 8 months.
+      : I was a Customer Success Manager, I elevated client satisfaction from 67% to 95% by introducing success milestones and expectation alignment, securing $130,000 in additional subscription renewal revenue and Retention through improved outcomes in less than 3 months.
  
 Prior to SERMO, I was a research scientist at
      <a href="https://www.mountsinai.org" target="_blank" rel="noopener">Mount Sinai Hospital</a>.
