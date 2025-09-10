@@ -3,7 +3,7 @@
 
 I was previously a Founder at <a href="https://www.crunchbase.com/organization/armhug/" target="_blank" rel="noopener"> ArmHug</a>. 
     
-At ArmHug, I worked directly with corporate clients as a Strategic Customer Success Manager and also served as a foundational contributor to the ArmHug Podcast, creating educational resources to support our clients’ continued learning.
+At ArmHug, I worked directly with corporate clients as a Strategic Customer Success Manager within SaaS organizations, particularly in government and high touch modelsand also served as a foundational contributor to the ArmHug Podcast, creating educational resources to support our clients’ continued learning.
       <a href="https://www.youtube.com/watch?v=XOqilc6Vm5Q/" target="_blank" rel="noopener">Pico IV</a>
       (Jan. 2025),
       <a href="https://www.youtube.com/watch?v=8R98cyZWOtw&t=459s/" target="_blank" rel="noopener">DOT</a>
@@ -13,7 +13,7 @@ At ArmHug, I worked directly with corporate clients as a Strategic Customer Succ
 
 Prior to ArmHug, at 
       <a href="https://www.sermo.com" target="_blank" rel="noopener">SERMO</a>
-      : I was a Customer Success Manager, I elevated client satisfaction from 67% to 95% by introducing success milestones and expectation alignment, securing $130,000 in additional subscription renewal revenue and Retention through improved outcomes in less than 3 months.
+      : I was a Customer Success Manager, I elevated client satisfaction from 67% to 95% by introducing success milestones and expectation alignment, securing $130,000 in additional subscription renewal revenue and retention through improved outcomes in less than 3 months.
  
 Prior to SERMO, I was a research scientist at
      <a href="https://www.mountsinai.org" target="_blank" rel="noopener">Mount Sinai Hospital</a>.
