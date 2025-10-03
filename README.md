@@ -111,6 +111,7 @@ Inventor: Hennesys Disla, Current Assignee: Icahn School of Medicine at Mount Si
 <li>
     
 https://www.youtube.com/watch?v=LUceBFcw5gw&t=9s
+https://trishalewis.com/12-hennysys-disla-why-start-ups-need-to-have-real-conversations/
 
 
 
