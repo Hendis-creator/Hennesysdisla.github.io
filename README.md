@@ -11,7 +11,6 @@ At ArmHug, I worked directly with corporate clients as a Strategic Customer Succ
       (Feb. 2025),
       <a href="https://www.youtube.com/watch?v=_Ta2Dnzo17Y/" target="_blank" rel="noopener">IV Therapy</a>
       (Mar. 2025). 
-      ArmHug E-ccomerce: $250,000 - $1 million in contracts 
 
 Prior to ArmHug, at 
       <a href="https://www.sermo.com" target="_blank" rel="noopener">SERMO</a>
